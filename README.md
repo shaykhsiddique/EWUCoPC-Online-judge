@@ -1,4 +1,4 @@
-# EWUCoPC-Online-judge 
+# EWUCoPC Online judge 
 
 
 
