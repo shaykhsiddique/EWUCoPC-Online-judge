@@ -7,9 +7,9 @@
 
  * Copyright (C)..... Shaykh Siddique, <shaykhsiddiqee@gmail.com>.
  
- *The core of some scripts are not uploaded for security region.
+ * The core of some scripts are not uploaded for security region.
  
- *No Permission to copy this codes.
+ * No Permission to copy this codes.
  
  * Make a short email to get licensed.
  
