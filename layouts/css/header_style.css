@@ -1,0 +1,35 @@
+.navbar_style{
+	padding-top: 4px;
+	padding-bottom: 4px;
+	/*background-color: #DED9D9;*/
+}
+
+a.navbar_style{
+	font-size: 12.5px;
+}
+
+a.navbar_style2{
+	font-size: 11.5px;
+}
+
+.navbar-nav>li:hover{
+    color: #FFE4C4;
+    background-color:#EDEBEB;
+
+    }
+li > a:focus{
+    background: #DED9D9 !important;
+    border-radius: 10px;
+}
+li{
+	border-radius: 10px;
+}
+
+.slider_height{
+	height: 200px;
+	max-height: 200px;
+}
+
+.nevbar_fontstyle{
+	font-size: 16px;
+}
